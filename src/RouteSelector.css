@@ -1,0 +1,8 @@
+.route-selector {
+    margin: 3px;
+}
+
+.route-selector label {
+    color: white;
+    font-size: 16px;
+}

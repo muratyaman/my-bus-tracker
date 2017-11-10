@@ -1,0 +1,52 @@
+.city-map {
+    background-color: #46bcec;
+    position: relative;
+}
+
+.city-map path {
+    stroke: gray;      /* border colour */
+    stroke-width: 1px; /* border width */
+}
+
+.city-map .arteries {
+
+}
+.city-map .arteries .artery {
+    stroke: steelblue;      /* border colour */
+    stroke-width: 1px; /* border width */
+}
+
+.city-map .freeways {
+
+}
+.city-map .freeways .freeway {
+    stroke: red;       /* border colour */
+    stroke-width: 1px; /* border width */
+}
+
+.city-map .neighborhoods {
+
+}
+.city-map .neighborhoods .neighborhood {
+    fill: gray;
+    fill-opacity: 1;
+    stroke: black;      /* border colour */
+    stroke-width: 1px; /* border width */
+}
+
+.city-map .streets {
+
+}
+.city-map .streets .street {
+    fill-opacity: 0.8;
+    stroke: white;      /* border colour */
+    stroke-width: 1px; /* border width */
+}
+
+.city-map .buses {
+
+}
+.city-map .buses .bus {
+    stroke: red;    /* border colour */
+    stroke-width: 3px; /* border width */
+}
