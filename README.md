@@ -4,6 +4,7 @@ My Bus Tracker is a small app to show buses of San Francisco on a map (React + D
 To see it in action, run:
 
 npm install
+
 npm start
 
 Then, open http://localhost:3000
